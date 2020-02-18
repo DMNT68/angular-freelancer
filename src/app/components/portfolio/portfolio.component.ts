@@ -26,22 +26,22 @@ export class PortfolioComponent implements OnInit{
       description
     });
     this.items.push({
-      title: 'Log Cabin',
+      title: 'Circus',
       image: 'assets/img/portfolio/circus.png',
       description
     });
     this.items.push({
-      title: 'Log Cabin',
+      title: 'Game',
       image: 'assets/img/portfolio/game.png',
       description
     });
     this.items.push({
-      title: 'Log Cabin',
+      title: 'Safe',
       image: 'assets/img/portfolio/safe.png',
       description
     });
     this.items.push({
-      title: 'Log Cabin',
+      title: 'Subamarine',
       image: 'assets/img/portfolio/submarine.png',
       description
     });
